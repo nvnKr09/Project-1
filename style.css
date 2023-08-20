@@ -1,11 +1,18 @@
+body {
+  background: #e3fae3;
+}
 #blog {
+  background: white;
   border: 1px solid;
   padding: 0px 20px 20px 20px;
 }
-a{
-    color: black;
+.responsive {
+  width: 60%;
 }
-ol{
-    line-height: 1.5;
-    padding: 0px 0px 0px 19px;
+a {
+  color: black;
+}
+ol {
+  line-height: 1.5;
+  padding: 0px 0px 0px 19px;
 }
